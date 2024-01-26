@@ -10,7 +10,6 @@
     "preview": "astro preview",
     "astro": "astro"
   },
-  "packageManager": "8.14.3",
   "dependencies": {
     "@astrojs/image": "^0.17.2",
     "@astrojs/mdx": "^0.19.7",
