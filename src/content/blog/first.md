@@ -12,7 +12,7 @@ author: "Helena Cala"
 tags: [SPUR, Maynooth, biochem]
 ---
 
- Multi-drug resistant bacteria pose a significant threat to public health due to their ability to withstand multiple antimicrobial agents, making conventional treatments ineffective. The emergence of antibiotic resistance has escalated the challenge of treating bacterial infections, leading to an urgent need for innovative approaches. This project focuses on the synthesis of fluorescent probes designed to target and visualize multi-drug resistant bacteria, providing a potential solution to combat these resilient microbial strains.
+Multi-drug resistant bacteria pose a significant threat to public health due to their ability to withstand multiple antimicrobial agents, making conventional treatments ineffective. The emergence of antibiotic resistance has escalated the challenge of treating bacterial infections, leading to an urgent need for innovative approaches. This project focuses on the synthesis of fluorescent probes designed to target and visualize multi-drug resistant bacteria, providing a potential solution to combat these resilient microbial strains.
 
 
 Multi-drug resistant bacteria are strains that have developed mechanisms to resist the effects of various antibiotics. This resistance can arise through genetic mutations or the acquisition of resistance genes from other bacteria. Resistant bacteria are particularly dangerous as they can cause infections that are challenging to treat, leading to prolonged illness, increased healthcare costs, and higher mortality rates. The overuse and misuse of antibiotics in both healthcare and agriculture contribute significantly to the rise of antibiotic-resistant bacteria.
@@ -31,13 +31,14 @@ The synthesized fluorescent probes have the potential to revolutionize the way w
 
 
 In conclusion, the synthesis of fluorescent probes targeting multi-drug resistant bacteria represents a crucial step toward addressing the global challenge of antibiotic resistance. By providing a means for rapid and accurate identification of resistant strains, this project contributes to the development of more effective strategies for managing bacterial infections and overall it was a successful project.
+
 ## SPUR SYMPOSIUM
 
 
 
 ### Picture of me and my poster.
 
-![Picture of me and my poster](../src/content/blog/IMG_8232.png)
+![Picture of me and my poster](./IMG_8232.png)
 </br>
 </br>
 
