@@ -10,6 +10,9 @@ publishDate: "2023-10-24 11:39"
 category: "Project Essay"
 author: "Helena Cala"
 tags: [SPUR, Maynooth, biochem]
+
+poster: "https://live.staticflickr.com/65535/53498528660_0888ab6541_k.jpg"
+me_and_poster: "https://live.staticflickr.com/65535/53498109386_63ed5ba288_k.jpg"
 ---
 
 Multi-drug resistant bacteria pose a significant threat to public health due to their ability to withstand multiple antimicrobial agents, making conventional treatments ineffective. The emergence of antibiotic resistance has escalated the challenge of treating bacterial infections, leading to an urgent need for innovative approaches. This project focuses on the synthesis of fluorescent probes designed to target and visualize multi-drug resistant bacteria, providing a potential solution to combat these resilient microbial strains.
@@ -38,11 +41,11 @@ In conclusion, the synthesis of fluorescent probes targeting multi-drug resistan
 
 ### Picture of me and my poster.
 
-![Picture of me and my poster](./IMG_8232.png)
+![Picture of me and my poster](https://live.staticflickr.com/65535/53498109386_63ed5ba288_k.jpg)
 </br>
 </br>
 
 ### Picture of my poster.
-![Picture of my poster](../src/content/blog/Presentation3.png)
+![Picture of my poster](https://live.staticflickr.com/65535/53498528660_0888ab6541_k.jpg)
  
  
